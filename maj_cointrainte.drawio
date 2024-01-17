@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T07:57:27.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="22.1.18" etag="DS0zRb9rHG0ydIGqLS6k" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T14:50:46.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xY7lSxFSAfeFjaupdZKM" version="22.1.18" type="github">
   <diagram name="Page-1" id="h9kKiYPD9vIZ8pOX7-ae">
-    <mxGraphModel>
+    <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_TJPghdTazyjRtpV63up-1" value="Mise à jour couche contrainte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-2" value="La structure attributaire est identique" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-3" value="La structure attributaire est modifiée" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-4" value="Vider la table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-5" value="Import des données" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-6" value="Exécution fonction containte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-7" value="&lt;b&gt;2. Supprimer la table&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Directement dans le transformers FME&lt;/li&gt;&lt;li&gt;Via SQL&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-8" value="&lt;b&gt;3. Créer la table&lt;/b&gt;&lt;br&gt;&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Directement dans le transformers FME&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Via SQL&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="600" y="740" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-9" value="Importer les données" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-10" value="Importer les données" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TJPghdTazyjRtpV63up-11" value="&lt;b&gt;1. Contrôler les mapfile&lt;/b&gt;&lt;br&gt;Identifier dans lesquels ils sont déclarés pour identifier des déclaration de champs eventuels (thématiques, ...)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="180" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
