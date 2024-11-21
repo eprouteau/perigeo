@@ -1,9 +1,109 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="bsnWSTosYQb0qHQ5N7Ny">
-    <mxGraphModel>
+    <mxGraphModel dx="2022" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="grSSC23IrZUVa-1DifsZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-2" target="grSSC23IrZUVa-1DifsZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-2" target="grSSC23IrZUVa-1DifsZ-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-2" value="&lt;b&gt;Création des pochoirs des territoires délégataires&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="153" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-3" target="grSSC23IrZUVa-1DifsZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-3" target="grSSC23IrZUVa-1DifsZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-3" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;&lt;div&gt;PJ : Ajout des fichiers à intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="359" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-4" target="grSSC23IrZUVa-1DifsZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-4" value="&lt;b&gt;Intégration en base&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Suppression N-1&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Ajout N&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="456" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-5" target="grSSC23IrZUVa-1DifsZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-5" target="grSSC23IrZUVa-1DifsZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-5" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : Recettage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="564" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-6" target="grSSC23IrZUVa-1DifsZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-6" target="grSSC23IrZUVa-1DifsZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-6" target="grSSC23IrZUVa-1DifsZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-6" value="&lt;b&gt;Recettage&lt;/b&gt;&lt;div&gt;Présence des informations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="667" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-7" target="grSSC23IrZUVa-1DifsZ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-7" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : Validé&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="770" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-8" target="grSSC23IrZUVa-1DifsZ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-8" target="grSSC23IrZUVa-1DifsZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-8" value="&lt;b&gt;Livraison&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="50" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-10" value="Délégataire" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="55" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-11" value="CAGP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="158" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-13" value="CAGP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="364" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-15" value="ATD24" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="435" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-16" value="ATD24" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="569" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-18" value="CAGP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="672" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-20" value="ATD24" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="775" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-23" target="grSSC23IrZUVa-1DifsZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="30" y="491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-23" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="564" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-27" target="grSSC23IrZUVa-1DifsZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="grSSC23IrZUVa-1DifsZ-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Contrôle Livraison&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 120%;&quot;&gt;&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Structure fichiers&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Valeurs saisies&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="251" width="150" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
