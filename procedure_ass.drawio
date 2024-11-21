@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="bsnWSTosYQb0qHQ5N7Ny">
-    <mxGraphModel dx="2876" dy="2223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="grSSC23IrZUVa-1DifsZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-3" target="grSSC23IrZUVa-1DifsZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="grSSC23IrZUVa-1DifsZ-3" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;&lt;div&gt;PJ : Ajout des fichiers à intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#014385;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="grSSC23IrZUVa-1DifsZ-3" value="&lt;b&gt;Saisie suivi Intégration&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;&lt;div&gt;PJ : Ajout des fichiers à intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#014385;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="150" y="359" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grSSC23IrZUVa-1DifsZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-4" target="grSSC23IrZUVa-1DifsZ-5">
@@ -25,7 +25,7 @@
         <mxCell id="grSSC23IrZUVa-1DifsZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-5" target="grSSC23IrZUVa-1DifsZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="grSSC23IrZUVa-1DifsZ-5" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : Recettage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#37B0C4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="grSSC23IrZUVa-1DifsZ-5" value="&lt;b&gt;Saisie suivi Intégration&lt;/b&gt;&lt;div&gt;Statut : Recettage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#37B0C4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="564" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grSSC23IrZUVa-1DifsZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-6" target="grSSC23IrZUVa-1DifsZ-7">
@@ -37,7 +37,7 @@
         <mxCell id="grSSC23IrZUVa-1DifsZ-6" value="&lt;b&gt;Recettage&lt;/b&gt;&lt;div&gt;Validation données géo et alpha&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="667" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="grSSC23IrZUVa-1DifsZ-7" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : Validé&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#37B0C4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="grSSC23IrZUVa-1DifsZ-7" value="&lt;b&gt;Saisie suivi Intégration&lt;/b&gt;&lt;div&gt;Statut : Validé&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#37B0C4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="770" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grSSC23IrZUVa-1DifsZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-8" target="grSSC23IrZUVa-1DifsZ-2">
@@ -46,7 +46,7 @@
         <mxCell id="grSSC23IrZUVa-1DifsZ-8" value="&lt;b&gt;Livraison des plans&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#FDBE01;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="50" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="grSSC23IrZUVa-1DifsZ-23" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;" vertex="1" parent="1">
+        <mxCell id="grSSC23IrZUVa-1DifsZ-23" value="&lt;b&gt;Saisie suivi Itnégration&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;" vertex="1" parent="1">
           <mxGeometry x="-30" y="564" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grSSC23IrZUVa-1DifsZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-27" target="grSSC23IrZUVa-1DifsZ-3">
@@ -88,7 +88,7 @@
         <mxCell id="grSSC23IrZUVa-1DifsZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-51" target="grSSC23IrZUVa-1DifsZ-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="grSSC23IrZUVa-1DifsZ-51" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;&lt;div&gt;PJ : Ajout des fichiers à intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;" vertex="1" parent="1">
+        <mxCell id="grSSC23IrZUVa-1DifsZ-51" value="&lt;b&gt;Saisie suivi Intégration&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;&lt;div&gt;PJ : Ajout des fichiers à intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;" vertex="1" parent="1">
           <mxGeometry x="563" y="464" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grSSC23IrZUVa-1DifsZ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-53" target="grSSC23IrZUVa-1DifsZ-55">
@@ -100,7 +100,7 @@
         <mxCell id="grSSC23IrZUVa-1DifsZ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-55" target="grSSC23IrZUVa-1DifsZ-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="grSSC23IrZUVa-1DifsZ-55" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : Recettage/Modification&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#37B0C4;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="grSSC23IrZUVa-1DifsZ-55" value="&lt;b&gt;Saisie suivi&amp;nbsp;&lt;/b&gt;&lt;b&gt;Intégration&lt;/b&gt;&lt;div&gt;Statut : Recettage/Modification&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#37B0C4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="818.5" y="586" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grSSC23IrZUVa-1DifsZ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-58" target="grSSC23IrZUVa-1DifsZ-59">
@@ -114,10 +114,10 @@
         <mxCell id="grSSC23IrZUVa-1DifsZ-58" value="&lt;b&gt;Recettage/Modifiations&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Validation données géo et alpha&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Suppresion éventuelle d&#39; anciennes données&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="818.5" y="689" width="150" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="grSSC23IrZUVa-1DifsZ-59" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : Validé&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="grSSC23IrZUVa-1DifsZ-59" value="&lt;b&gt;Saisie suivi&amp;nbsp;&lt;/b&gt;&lt;b&gt;Intégration&lt;/b&gt;&lt;div&gt;Statut : Validé&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="818.5" y="855" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="grSSC23IrZUVa-1DifsZ-60" value="&lt;b&gt;Saisie suivi PERIGEO&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="grSSC23IrZUVa-1DifsZ-60" value="&lt;b&gt;Saisie suivi Intégration&lt;/b&gt;&lt;div&gt;Statut : A intégrer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#014385;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="991" y="586" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grSSC23IrZUVa-1DifsZ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="grSSC23IrZUVa-1DifsZ-60" target="grSSC23IrZUVa-1DifsZ-53">
